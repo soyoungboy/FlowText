@@ -52,6 +52,7 @@ public class MainActivity extends Activity {
 
 ##Downloads
 >* **[android-flow-text-1.0.0.jar](https://github.com/xiaopansky/FlowText/raw/master/releases/android-flow-text-1.0.0.jar)**
+>* **[android-flow-text-1.0.0-with-src.jar](https://github.com/xiaopansky/FlowText/raw/master/releases/android-flow-text-1.0.0-with-src.jar)**
 
 ##License
 ```java
